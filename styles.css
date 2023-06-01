@@ -1,0 +1,25 @@
+.grade{
+	color: green;
+	background-color: rgb(255, 30, 10);
+}
+
+/*isse kuch nhi hota h*/
+a:link{
+  color:blue;
+}
+/*yeah initial stage ka color h*/
+a:visited{
+  color:purple;
+}
+/*isse hover karne par color change hota h*/
+a:hover{
+  color:orange;
+}
+/*click karne ke baad*/
+a:focus{
+  color:green;
+}
+/*jab click kar rahe hote h tab*/
+a:active{
+  color:red;
+}
